@@ -1,4 +1,0 @@
-interface:
-  display_name: "Humanities Paper Writer"
-  short_description: "Create source-grounded humanities research reports"
-  default_prompt: "Create a source-grounded humanities research report from my topic, corpus, and interpretive approach, with DOCX and PDF outputs."
