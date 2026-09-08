@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carrel Humanities Paper Writer"
+  short_description: "Carrel creates source-grounded humanities research reports"
+  default_prompt: "Use Carrel to create a source-grounded humanities research report from my topic, corpus, and interpretive approach, with DOCX and PDF outputs."
