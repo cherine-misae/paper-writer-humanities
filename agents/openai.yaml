@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carrel Paper Writer (humanities · social science · language)"
+  short_description: "Carrel creates source-grounded research reports across humanities, social science, and language fields"
+  default_prompt: "Use Carrel to create a source-grounded research report from my question, evidence, and approach, with DOCX and PDF outputs."
